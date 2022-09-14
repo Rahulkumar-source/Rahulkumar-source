@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rahulkumar
+- 👋 Hi, I’m Rahul kumar
 - 👀 I’m interested in webdevloper and ui/ux designing.
 - 🌱  B.tech fro computer science
 - 💞️ I’m looking to collaborate on ...
