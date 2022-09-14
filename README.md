@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rahulkumar
 - 👀 I’m interested in webdevloper and ui/ux designing.
-- 🌱 I’m currently learning B.tech in computer science
+- 🌱  B.tech fro computer science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: 6299413023/rahulrajmela2018@gmail.com
 
